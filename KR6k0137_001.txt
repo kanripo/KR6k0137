@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:45:01.471375
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:52
 #+TITLE: 宗四分比丘隨門要略行儀
 #+PROPERTY: CBETA_ID T85n2791
 #+PROPERTY: ID KR6k0137
